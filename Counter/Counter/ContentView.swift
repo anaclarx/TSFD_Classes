@@ -15,11 +15,13 @@ struct ContentView: View {
             Button( "-"){
                 self.counter -= 1
             }
+            .foregroundColor(.red)
             Text(String(counter))
                 .padding()
             Button( "+"){
                 self.counter += 1
             }
+            .foregroundColor(.green)
         }
     }
 }
