@@ -19,12 +19,19 @@ struct ContentView: View {
                 Button( "-"){
                     self.counter -= 1
                 }
+                .font(.title2)
+                .fontWeight(.bold)
                 .foregroundColor(.red)
                 Text(String(counter))
+                    .font(.title)
                     .padding()
+                    .foregroundColor(.cyan)
+                    .fontWeight(.bold)
                 Button( "+"){
                     self.counter += 1
                 }
+                .font(.title2)
+                .fontWeight(.bold)
                 .foregroundColor(.green)
             }
         }
