@@ -98,8 +98,8 @@
 			children = (
 				0A8308F528D5F85A006060AD /* CounterProjectApp.swift */,
 				0A8308F728D5F85A006060AD /* ContentView.swift */,
-				0A8308F928D5F85C006060AD /* Assets.xcassets */,
 				0A83091F28D5FCDA006060AD /* LogoCounter.png */,
+				0A8308F928D5F85C006060AD /* Assets.xcassets */,
 				0A8308FB28D5F85C006060AD /* Preview Content */,
 			);
 			path = CounterProject;
