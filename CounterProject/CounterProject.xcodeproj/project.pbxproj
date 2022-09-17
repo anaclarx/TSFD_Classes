@@ -14,6 +14,7 @@
 		0A83090728D5F85C006060AD /* CounterProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A83090628D5F85C006060AD /* CounterProjectTests.swift */; };
 		0A83091128D5F85C006060AD /* CounterProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A83091028D5F85C006060AD /* CounterProjectUITests.swift */; };
 		0A83091328D5F85C006060AD /* CounterProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A83091228D5F85C006060AD /* CounterProjectUITestsLaunchTests.swift */; };
+		0A83092028D5FCDA006060AD /* LogoCounter.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A83091F28D5FCDA006060AD /* LogoCounter.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		0A83090C28D5F85C006060AD /* CounterProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CounterProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A83091028D5F85C006060AD /* CounterProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterProjectUITests.swift; sourceTree = "<group>"; };
 		0A83091228D5F85C006060AD /* CounterProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0A83091F28D5FCDA006060AD /* LogoCounter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LogoCounter.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				0A8308F528D5F85A006060AD /* CounterProjectApp.swift */,
 				0A8308F728D5F85A006060AD /* ContentView.swift */,
 				0A8308F928D5F85C006060AD /* Assets.xcassets */,
+				0A83091F28D5FCDA006060AD /* LogoCounter.png */,
 				0A8308FB28D5F85C006060AD /* Preview Content */,
 			);
 			path = CounterProject;
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A83092028D5FCDA006060AD /* LogoCounter.png in Resources */,
 				0A8308FD28D5F85C006060AD /* Preview Assets.xcassets in Resources */,
 				0A8308FA28D5F85C006060AD /* Assets.xcassets in Resources */,
 			);
